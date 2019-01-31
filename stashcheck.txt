@@ -1,1 +1,2 @@
 stash checkchange in git stash
+agsin chane in stash.txt 
